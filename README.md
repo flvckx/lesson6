@@ -14,3 +14,5 @@
 ![Image](https://bradbambara.files.wordpress.com/2014/09/vwlknf.gif)
       * создать UIView который будет контейнером для 3 UIView, динамически менять ширину и высоту контейнера при этом все дочерние UIView должны размещатся как на примире<br>
 ![Image](https://bradbambara.files.wordpress.com/2014/09/2efcs.gif)
+
+P.S. Читать про Autolaout тут:(Get Started & Cookbook) https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1
