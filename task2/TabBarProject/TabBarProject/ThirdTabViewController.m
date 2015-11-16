@@ -23,7 +23,7 @@
     self.slider.maximumValue = self.view.frame.size.width - self.viewWidth.constant;
 }
 
-- (IBAction)changeLabelHeight:(id)sender {
+- (IBAction)changeLabelWidth:(id)sender {
     self.viewWidth.constant = self.slider.value;
 }
 

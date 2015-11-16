@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0C3F5BC51BF8E47900F04C44 /* SecondTabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C3F5BC41BF8E47900F04C44 /* SecondTabViewController.m */; };
 		0C3F5BC81BF90D8B00F04C44 /* ThirdTabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C3F5BC71BF90D8B00F04C44 /* ThirdTabViewController.m */; };
+		0C9EF0B51BFA806F00725845 /* ForthTabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C9EF0B41BFA806F00725845 /* ForthTabViewController.m */; };
 		0CECD86F1BF8D191003EF370 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CECD86E1BF8D191003EF370 /* main.m */; };
 		0CECD8721BF8D191003EF370 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CECD8711BF8D191003EF370 /* AppDelegate.m */; };
 		0CECD8751BF8D191003EF370 /* FirstTabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CECD8741BF8D191003EF370 /* FirstTabViewController.m */; };
@@ -22,6 +23,8 @@
 		0C3F5BC41BF8E47900F04C44 /* SecondTabViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondTabViewController.m; sourceTree = "<group>"; };
 		0C3F5BC61BF90D8B00F04C44 /* ThirdTabViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdTabViewController.h; sourceTree = "<group>"; };
 		0C3F5BC71BF90D8B00F04C44 /* ThirdTabViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdTabViewController.m; sourceTree = "<group>"; };
+		0C9EF0B31BFA806F00725845 /* ForthTabViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForthTabViewController.h; sourceTree = "<group>"; };
+		0C9EF0B41BFA806F00725845 /* ForthTabViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForthTabViewController.m; sourceTree = "<group>"; };
 		0CECD86A1BF8D191003EF370 /* TabBarProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabBarProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CECD86E1BF8D191003EF370 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0CECD8701BF8D191003EF370 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -72,6 +75,8 @@
 				0C3F5BC41BF8E47900F04C44 /* SecondTabViewController.m */,
 				0C3F5BC61BF90D8B00F04C44 /* ThirdTabViewController.h */,
 				0C3F5BC71BF90D8B00F04C44 /* ThirdTabViewController.m */,
+				0C9EF0B31BFA806F00725845 /* ForthTabViewController.h */,
+				0C9EF0B41BFA806F00725845 /* ForthTabViewController.m */,
 				0CECD8761BF8D191003EF370 /* Main.storyboard */,
 				0CECD8791BF8D191003EF370 /* Assets.xcassets */,
 				0CECD87B1BF8D191003EF370 /* LaunchScreen.storyboard */,
@@ -164,6 +169,7 @@
 				0CECD8751BF8D191003EF370 /* FirstTabViewController.m in Sources */,
 				0CECD8721BF8D191003EF370 /* AppDelegate.m in Sources */,
 				0C3F5BC51BF8E47900F04C44 /* SecondTabViewController.m in Sources */,
+				0C9EF0B51BFA806F00725845 /* ForthTabViewController.m in Sources */,
 				0CECD86F1BF8D191003EF370 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
